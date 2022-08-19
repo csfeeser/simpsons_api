@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Homer Simpson",
+    "quotes": [
+      "“Kids, just because I don’t care doesn’t mean I’m not listening.”",
+      "“To alcohol! The cause of, and solution to, all of life's problems.\""
+    ]
+  },
+  {
+    "name": "Marge Simpson",
+    "quotes": [
+      "You're going to stay your current ages for the rest of your lives.",
+      "I’m so embarrassed I wish there was a hole I could just crawl into and die."
+    ]
+  },
+  {
+    "name": "Bart Simpson",
+    "quotes": [
+      "You're asking the wrong guy, Milhouse, you're asking the wrong guy.",
+      "“She's like a Milk Dud, Lis. Sweet on the outside, poison on the inside.”"
+    ]
+  },
+  {
+    "name": "Lisa Simpson",
+    "quotes": [
+      "“Mom, romance is dead. It was acquired by Hallmark and Disney in a hostile takeover, homogenized, and sold off piece by piece.”",
+      "Why do I get the feeling that someday I'll be describing this to a psychiatrist?"
+    ]
+  }
+]
