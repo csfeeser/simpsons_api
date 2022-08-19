@@ -1,4 +1,6 @@
-# Simpsons Api!
+# Simpsons Quotes API!
+
+<img src="https://memegenerator.net/img/instances/63172730.jpg" alt="drawing" width="200"/>
 
 This is a basic API written in Flask for students who'd like to see some of the content we've learned in class utilized in a fun way!
 
